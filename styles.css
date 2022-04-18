@@ -1,0 +1,25 @@
+#Vlogin {
+  width: 30%;
+  height: 45%;
+  
+  margin-top: 6%;
+  border-style: solid;
+  border-radius: 5%;
+  
+
+
+  
+}
+
+#btningresar {
+background-color: rgb(145, 145, 235);
+
+}
+
+#loginclose {
+  
+
+ margin-left: 90%;
+ margin-top: 5%;
+
+}
